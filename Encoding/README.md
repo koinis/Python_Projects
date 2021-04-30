@@ -14,6 +14,10 @@ shiftRightUpper(c,key) = Takes an uppercase letter "c" as an argument and return
 shiftLeftUpper(c,key) = Takes an uppercase letter "c" as an argument and returns the uppercase letter located "key" positions before the uppercase letter "c" in the English alphabet.
 
 
+
+
+
+
 The function encodetext, encodes by using the shifting of the letters which includes. 
 (Uses the help functions shiftRightLower(c,key) and shiftRightUpper(c,key)).
 
