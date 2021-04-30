@@ -5,6 +5,7 @@ This is a Python encoding program.
 The program consists of two basic functions, the function encodetext and the function decodetext.
 The program also includes four help functions which are used in the implemetation of encodetext and decodetext.
 
+## help functions
 shiftRightLower(c,key) = Takes a lowercase letter "c" as an argument and returns the lowercase letter located "key" positions after "c" in the English alphabet.
 
 shiftRightUpper(c,key) = Takes a lowercase letter "c" as an argument and returns the lowercase letter located "key" positions before "c" in the English alphabet.
@@ -14,10 +15,7 @@ shiftRightUpper(c,key) = Takes an uppercase letter "c" as an argument and return
 shiftLeftUpper(c,key) = Takes an uppercase letter "c" as an argument and returns the uppercase letter located "key" positions before the uppercase letter "c" in the English alphabet.
 
 
-
-
-
-
+## basic functions
 The function encodetext, encodes by using the shifting of the letters which includes. 
 (Uses the help functions shiftRightLower(c,key) and shiftRightUpper(c,key)).
 
