@@ -1,3 +1,5 @@
+# Encoding
+
 This is a Python encoding program.
 
 The program consists of two basic functions, the function encodetext and the function decodetext.
