@@ -2,9 +2,9 @@
 
 This is a Python program which manages interest rates.
 
-i) Takes from the user a "capital" positive real number.
+i) The user inputs a "capital" positive real number.
 
-ii) Takes from the user a sequence of real numbers "rates" which contains the interest rates of deposits (percent) over a number of years.
+ii) The user inputs a sequence of real numbers "rates" which contains the interest rates of deposits (percent) over a number of years.
 
 (eg The sequence 1.5, 1.75, 1.5, 1.25, means that first year the interest rate is 1.5%, the second 1.75%, the third 1.5% and the fourth 1.25%).
 
