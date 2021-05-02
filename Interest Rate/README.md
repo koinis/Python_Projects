@@ -11,3 +11,6 @@ ii) Takes from the user a sequence of real numbers "rates" which contains the in
 iii) Prints the initial capital and what will be the capital after the passage of each of the years.   
 
 (eg After the end of the first year, the capital is c1 = (capital+capital * 1.5/100) after the second year the capital is c2 = (c1+c1 * 1.75/100), etc)
+
+Examples of program execution
+![screenshot](https://user-images.githubusercontent.com/78180193/116809582-5d395c00-ab47-11eb-891b-853e52c5fe18.jpg)
